@@ -4,10 +4,17 @@
 基于SpringBoot+Vue实现的音乐播放网站，分前后两端，不同的用户权限，后端主要是歌曲信息的管理，前台是歌曲播放。
 
 
+#### 联系/演示地址
+ [点击获取联系/演示地址](https://www.xunmaw.com/ "点击获取更多") 
+
+ 
+
 #### 软件架构
 前端：Vue | Element-ui  
 后端：SpringBoot | Mybatis | mysql  
 环境：JDK1.8 | Mysql | Maven   
+
+
 
 
 #### 功能介绍
